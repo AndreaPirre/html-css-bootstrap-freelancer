@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+[class*="col-"] {
+    height: 100%;
+    border: 1px solid #000;
+}
+
+.row {
+    height: 100px;
+    background-color: lightgrey;
+}
+
+.section {
+    padding: 0 10%;
+}
