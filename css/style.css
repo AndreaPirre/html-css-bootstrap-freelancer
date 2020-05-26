@@ -54,6 +54,12 @@ h2 {
     color: #fff;
 }
 
+.navbar-default .navbar-nav > li > a:hover {
+    color: #1abc9c;
+}
+
+
+
 .navbar-brand {
     line-height: 45px;
     font-weight: bold;
