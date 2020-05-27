@@ -141,3 +141,9 @@ header {
     line-height: 60px;
     color: #fff;
 }
+
+.btn-success {
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
